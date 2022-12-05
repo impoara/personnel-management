@@ -1,0 +1,69 @@
+body{
+	background-color:#F0F8FF;
+}
+/*body {
+    font-family:"宋体";
+	color:#000000
+	background:#f0f8ff;
+	margin: 15px;
+	 }
+.table{ width:"100%";
+       align:"center";
+       cellpadding:"3"
+ }	 
+
+
+
+body,table,th,td,input,select,textarea {
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	
+} 
+  
+ /* 超链接 */
+/*a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}*/
+
+/*点击超链接后样式*/
+/*a:link,a:visited {
+	color:#0000FF;
+	text-decoration: none;
+}*/
+
+/*鼠标停在超链接上和点击超链接的样式*/
+/*a:hover,a:active {
+	color:#FF0000;
+	text-decoration: underline;
+}
+td.item {
+	width: 30%
+	font-weight: bold;
+	text-align: right; /*水平对齐方式*/*/
+/*	vertical-align: center;*/ /*垂直对齐方式*/
+	/*padding-top: 4px;
+}*/
+
+/*表头*/
+
+
+/* 按钮 */
+/*.button { 
+	font-size: 12px; 
+	color: #000000; 
+	cursor: hand; 
+	height: 20px; 
+	vertical-align:text-bottom;
+	background-color: #FFFFFF; 250
+	background-image: url('images/buttonbg.jpg');
+	border: 1px solid #0088cc
+	
+}
+
+table.border{
+border:1px solid #000000;
+
+}
+ table.tr {
+	background-color: expression(this.className == 'LT' ? '#85A5F4' : ((this.sectionRowIndex%2==0) ? "#ffffff" : "#f4f4f4"))
+	}*/

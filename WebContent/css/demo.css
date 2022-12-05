@@ -1,0 +1,44 @@
+/* 基本样式 */
+
+body,table,th,td,input,select,textarea {
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+
+
+/*表头*/
+tr.title td{
+	font-weight: bold;
+	text-align:left;
+	background-image: url('images/buttonbg1.jpg');
+	color:#a52a2a /*字体颜色*/
+	border: 1px ;
+	height: 25px;
+	border-bottom:#3366CC 1px solid;
+}
+
+/*奇数行*/
+tr.rowAlternateA  td {
+	background-color:#FFFFCC;
+	height: 25px;
+}
+/*偶数行*/
+tr.rowAlternateB td {
+	background-color:#F2F8FF;
+	height: 25px;
+}
+
+/* 按钮 */
+.button { 
+	font-size: 12px; 
+	color: #000000; 
+	cursor: hand; 
+	height: 20px; 
+	vertical-align:text-bottom;
+	background-color: #FFFFFF; 
+	background-image: url('images/buttonbg.jpg');
+	border: 1px solid #0088cc
+	
+}
+
